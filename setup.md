@@ -490,7 +490,9 @@ Prometheus is a full fledged solution that enables you to access advanced metric
 
 - [Setup Prometheus and Grafana on Kubernetes using prometheus-operator](https://computingforgeeks.com/setup-prometheus-and-grafana-on-kubernetes/)
 
-Reference[^ref]
-[^ref]: [Computingforgeeks](https://computingforgeeks.com/deploy-kubernetes-cluster-on-ubuntu-with-kubeadm/?expand_article=1).
-Viblo[^ref]
-[^ref]: [Viblo](https://viblo.asia/p/k8s-phan-1-kubernetes-la-gi-bJzKmAyDK9N).
+Reference[^ref1].
+Viblo[^ref2].
+
+[^ref1]: [Computingforgeeks](https://computingforgeeks.com/deploy-kubernetes-cluster-on-ubuntu-with-kubeadm/?expand_article=1).
+[^ref2]: [Viblo](https://viblo.asia/p/k8s-phan-1-kubernetes-la-gi-bJzKmAyDK9N).
+
